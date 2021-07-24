@@ -26,6 +26,7 @@ img {
 /* BODY */
 
 body {
+    width:90%;
     max-width: 60rem;
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
