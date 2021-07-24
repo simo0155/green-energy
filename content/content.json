@@ -1,0 +1,26 @@
+{
+    "intro": {
+        "heading": "Welcome To The Green School",
+        "imageURL": "../images/intro/green-earth.jpg",
+        "imageAlt": "Image of Earth Surrounded with Buildings in Graphical Format",
+        "bodyText": "Please select a sustainable method on to continue.."
+    },
+    "w2e": {
+        "heading": "Waste To Energy & Composting",
+        "imageURL": "../images/w2e/w2e_plant.png",
+        "imageAlt": "Image of Waste To Energy Plant",
+        "bodyText": "Waste-to-energy plants burn municipal solid waste (MSW), often called garbage or trash, to produce steam in a boiler that is used to generate electricity. MSW is a mixture of energy-rich materials such as paper, plastics, yard waste, and products made from wood."
+    },
+    "solar": {
+        "heading": "Solar Energy",
+        "imageURL": "../images/solar/solar.png",
+        "imageAlt": "Image of Solar Panels",
+        "bodyText": "Solar power is energy from the sun that is converted into thermal or electrical energy. Solar technologies can harness this energy for a variety of uses, including generating electricity, providing light or a comfortable interior environment, and heating water for domestic, commercial, or industrial use."
+    },
+    "water": {
+        "heading": "Conserving Water",
+        "imageURL": "../images/water/water.png",
+        "imageAlt": "...",
+        "bodyText": "Conserving water is important because it keeps water pure and clean while protecting the environment. Conserving water means using our water supply wisely and be responsible. As every individual depends on water for livelihood, we must learn how to keep our limited supply of water pure and away from pollution."
+    }
+}
