@@ -175,6 +175,7 @@ button i {
 .inner h2 {
     font-family: 'Aleo', serif;
     font-size: 1.5rem;
+    line-height:1.2;
     margin: 2rem 0 .5rem 0;
     color: #60A10F;
 }
