@@ -5,7 +5,7 @@ Dark Gray: #303030;
 White: white;
 
 Fonts:
-Google Font Pair : Pacifico & Roboto
+Google Font Pair : aleo & Roboto
 
 */
 
@@ -38,7 +38,7 @@ body {
 }
 
 h1 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Aleo', serif;
     color: #60A10F;
     font-size: 2rem;
 
@@ -121,7 +121,7 @@ button:hover {
 }
 
 button i {
-    pointer-events: none
+    pointer-events: none;
 }
 
 
@@ -147,7 +147,7 @@ button i {
 }
 
 .controls h2 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Aleo', serif;
     font-size: 1.5rem;
     margin: 1rem 0;
     color: #60A10F;
@@ -173,7 +173,7 @@ button i {
 }
 
 .inner h2 {
-    font-family: 'Pacifico', cursive;
+    font-family: 'Aleo', serif;
     font-size: 1.5rem;
     margin: 2rem 0 .5rem 0;
     color: #60A10F;
@@ -199,7 +199,7 @@ footer {
 
 .foot-text h3 {
     margin: .5rem 0;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Aleo', serif;
     font-size: 1.5rem;
     color: #60A10F;
 }
